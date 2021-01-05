@@ -90,6 +90,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>thymeleaf-demo</finalName>
     </build>
 
 </project>
